@@ -15,7 +15,7 @@
 </p>
 <br>
  
- - :school: I'm [Priyansh Jain](https://github.com/ErR0rpj) currently a Third Year ECE student at <a href="https://academics.mnnit.ac.in/new">@MNNIT  </a>
+ - :school: I'm [Priyansh Jain](https://github.com/ErR0rpj) currently a Final Year ECE student at <a href="https://academics.mnnit.ac.in/new">@MNNIT  </a>
 
 - 👯 All the Jain Music Lovers look at my application on PlayStore: [Stavan](https://play.google.com/store/apps/details?id=com.JainDevelopers.jain_songs)
 
