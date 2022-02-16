@@ -19,11 +19,11 @@
 
 - 👯 All the Jain Music Lovers look at my application on PlayStore: [Stavan](https://play.google.com/store/apps/details?id=com.JainDevelopers.jain_songs)
 
-- 👨‍💻 Looking for Designer, Video Editor, Social Media Handler and a Flutter Developer.
+- 👨‍💻 Looking for someone interested in building some great Business.
 
-- 💬 Talk to me about ANYTHING. More inclined towards: Music, Business, Startups, Investments, Development & where to Eat 🍽️.
+- 💬 Talk to me about ANYTHING. More inclined towards: Business, Startups, Investments, Development, Music, Apps, Strategies & where to Eat 🍽️.
 
-- 🏝️ Likes to Travel, Relax and Eat.
+- 🏝️ Likes to Travel, Relax and Eat (although I am Thin).
 <br>
 
 ## 📊 Github stats
