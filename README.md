@@ -1,6 +1,6 @@
 <h1 align="center">Hello Fellas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=So%20Called%20Entrepreneur%20🤵;❤️%20Creating%20📱%20Apps;🦈%20Tank%20Inspires%20Me;Investing%20In%20Stocks%20And%20Myself;Lets%20Build%20Something%20Together&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Lets%20Build%20Something%20Together;🦈%20Tank%20Inspires%20Me;❤️%20Creating%20📱%20Apps;So%20Called%20Entrepreneur%20🤵;Investing%20In%20Stocks%20And%20Myself&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
