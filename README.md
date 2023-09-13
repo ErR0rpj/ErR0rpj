@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/priyansja1n_301/">
+  <a href="https://www.instagram.com/priyans_ja1n/">
     <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/badge/-Twitter?color=white&label=Instagram&logo=instagram&style=for-the-badge&labelColor=white"/></a> 
    <a href="https://twitter.com/priyanshjain301">
   <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/priyanshjain301?color=55960c&labelColor=488207&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge"/></a>
