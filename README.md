@@ -15,9 +15,11 @@
 </p>
 <br>
  
- - :school: I'm [Priyansh Jain](https://github.com/ErR0rpj) currently a Final Year ECE student at <a href="https://academics.mnnit.ac.in/new">@MNNIT  </a>
+ - :school: I'm [Priyansh Jain](https://github.com/ErR0rpj) currently working as Software Developer <a href="https://academics.mnnit.ac.in/new">@BnyMellon  </a>
 
 - 👯 All the Jain Music Lovers look at my application on PlayStore: [Stavan](https://play.google.com/store/apps/details?id=com.JainDevelopers.jain_songs)
+
+- 👯 Do you read newsletters and blogs? Most probably yes! Checkout my application on PlayStore which has a collection of one of the best Newsletters & Blogs: [Almanac Of Wisdom](https://play.google.com/store/apps/details?id=com.JainDevelopers.almanac_of_wisdom)
 
 - 👨‍💻 Looking for someone interested in building some great Business.
 
