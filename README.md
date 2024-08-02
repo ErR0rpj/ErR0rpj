@@ -17,7 +17,7 @@
  
  - :school: I'm [Priyansh Jain](https://github.com/ErR0rpj) currently working as Software Developer <a href="https://academics.mnnit.ac.in/new">@BnyMellon  </a>
 
-- 👯 All the Jain Music Lovers look at my application on PlayStore: [Stavan](https://play.google.com/store/apps/details?id=com.JainDevelopers.jain_songs)
+- 👯 All the Jain Music Lovers look at my website: [Stavan](https://jainstavan.in)
 
 - 👯 Do you read newsletters and blogs? Most probably yes! Checkout my application on PlayStore which has a collection of one of the best Newsletters & Blogs: [Almanac Of Wisdom](https://play.google.com/store/apps/details?id=com.JainDevelopers.almanac_of_wisdom)
 
